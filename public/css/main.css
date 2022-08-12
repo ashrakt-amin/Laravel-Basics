@@ -1,0 +1,34 @@
+/* post folder */
+/* start post create page */
+.posts-form input,
+.posts-form button{
+    margin: 10px;
+}
+.form-control{
+    margin: 10px!important ;
+}
+.delete-all{
+    margin-right:0;
+}
+/* end post create page */
+
+
+/* start post index page */
+.posts .table{
+   
+}
+.container{
+    width:50%;
+    padding: 30px 100px;
+    margin: 20px;
+
+}
+/* end post index page */
+
+ /* nav*/
+ .div-notfication a{
+    background-color: rgb(243, 249, 247);
+    padding: 5px;
+    margin: 5px;
+ }
+ /*end nav */
